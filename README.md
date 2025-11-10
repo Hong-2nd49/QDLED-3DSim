@@ -28,6 +28,17 @@ QDLED-3DSim 专注于将三维器件仿真结果转化为：
 
 ## 2. Features | 功能特性
 
+
+- 📥 **Simulation Parsing**
+  - Parse COMSOL / TCAD-style CSV outputs into structured arrays and metrics
+- 🧱 **Geometry Handling**
+  - Define simple layered and patterned device geometries for analysis and featurization
+- 🧠 **Surrogate Modeling Hooks**
+  - Train ML models (e.g. MLP, 3D CNN, GNN) to emulate simulation outputs
+- 📊 **Visualization**
+  - Plot 2D/3D carrier and recombination distributions for quick inspection
+
+All components are kept minimal, transparent, and easy to adapt to new structures and materials.
 - 📥 **Simulator Parsing**
   - 解析 COMSOL / Lumerical / TCAD 导出的 CSV / 数据文件
 - 🧱 **Geometry Handling**
