@@ -1,0 +1,10 @@
+materials:
+  ZnO:
+    bandgap_eV: 3.3
+    epsilon_r: 9.0
+  QD:
+    bandgap_eV: 2.2
+    epsilon_r: 6.0
+  HTL:
+    bandgap_eV: 3.0
+    epsilon_r: 3.5
